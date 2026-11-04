@@ -1,7 +1,7 @@
 # Hi, I'm Khine Zar Thwe 👋
 
 Software engineer from Myanmar working on **NLP for the Burmese language**.
-I have 5 years of experience building systems for Japanese clients, and I am preparing to start a Master's degree in NLP / machine learning.
+I have 5 years of experience building software systems for both Japanese and local clients, and I am preparing to pursue a Master's degree in NLP and Machine Learning.
 
 **Research interest:** Low-resource speech and language technology for Burmese, especially machine translation, speech recognition, how word segmentation and tokenization affect translation quality.
 
