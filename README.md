@@ -35,7 +35,7 @@ I have 5 years of experience building systems for Japanese clients, and I am pre
 - B.E. (Information Technology), Myanmar
 - AI Engineering (Fundamental), Batch 2, with Dr. Ye Kyaw Thu (2026)
 - Machine Learning Specialization, DeepLearning.AI (Andrew Ng)
-- Taught machine learning and programming to international students (2022–2025)
+- Taught programming to international students (2022–2025)
 
 ## 📫 Contact
 
