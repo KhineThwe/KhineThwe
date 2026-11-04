@@ -5,7 +5,7 @@ I have 5 years of experience building software systems for both Japanese and loc
 
 **Research interest:** Low-resource speech and language technology for Burmese, especially machine translation, speech recognition, how word segmentation and tokenization affect translation quality.
 
-🌏 Burmese (native) · English · Japanese (JLPT N2)
+🌏 Burmese (native) · English(TOEIC-825) · Japanese (JLPT N2 passed N1 studying)
 
 ---
 
