@@ -3,7 +3,7 @@
 Software engineer from Myanmar working on **NLP for the Burmese language**.
 I have 5 years of experience building systems for Japanese clients, and I am preparing to start a Master's degree in NLP / machine learning.
 
-**Research interest:** low-resource machine translation and language technology for Burmese, especially how word segmentation and tokenization affect translation and classification.
+**Research interest:** Low-resource speech and language technology for Burmese, especially machine translation, speech recognition, how word segmentation and tokenization affect translation quality.
 
 🌏 Burmese (native) · English · Japanese (JLPT N2)
 
